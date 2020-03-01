@@ -1,2 +1,2 @@
 # MVC_BMICalculator_1
-fkgbl
+Android Application of BMI Calculator
